@@ -26,4 +26,27 @@ div{
   height: 50%;
   border:10px solid brown;
 }
+.head {
+  color: blue;
+}
+
+.head + a {
+  color: red;
+}
+
+.head + a + a {
+  color: green;
+}
+
+.head + a + a + a {
+  color: orange;
+}
+
+.head + a + a + a + a {
+  color: purple;
+}
+
+.head + a + a + a + a + a {
+  color: brown;
+}
   
