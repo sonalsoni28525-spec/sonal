@@ -33,7 +33,14 @@ body{
 .child: nth-of-type(2){
   background-image:url(". ./nature.jpg");         
 }
-
+@media(min-width:576px){
+.first div{
+flex-direction:column;
+}
+.child div{
+width:100%;
+}
+}
   
 /* div{
   width:100%;
