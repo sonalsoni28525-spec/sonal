@@ -1,7 +1,7 @@
-h1
-{
-  color:blue;
-  background-color:pink;
+*main{
+  padding: 0px;
+  margin: 0px:
+  box-sizing: border-box;
 }
 .box {
   width: 100%;
@@ -26,7 +26,7 @@ div{
   height:100%;
   border:5px solid black;
 }
-/* .head {
+ .head {
   color: blue;
 }
 
@@ -47,6 +47,6 @@ div{
 }
 
 .head + a + a + a + a + a {
-  color: yellow; */
+  color: yellow; 
 }
   
