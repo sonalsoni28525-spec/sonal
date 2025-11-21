@@ -1,6 +1,13 @@
-div{
+.one{
   height:50%;
-  width:50;
+  width:50%;
     border-color:2px solid black;
 }
+  
+.two{
+  height:50%;
+  width:50%;
+  border-color:2px solid black;
+}
+
   
