@@ -31,10 +31,7 @@ body{
     background-color: blue ;
 }
 .child: nth-of-type(2){
-  width: 50%;
-  height: 50%;
-  border:5px solid yellow;
-      background-color: blue ;         
+  background-image:url(". ./nature.jpg");         
 }
 
   
