@@ -9,13 +9,13 @@
    display: flex; 
 }
 
- /* .green { 
+  .green { 
   background-color: green;
 }
 
 .red {
   background-color: red;
-} */
+} 
 
 body{
     
@@ -34,7 +34,7 @@ body{
   width: 50%;
   height: 50%;
   border:5px solid yellow;
-      background-color: blue !important;         
+      background-color: blue ;         
 }
 
   
