@@ -24,13 +24,13 @@ body{
 .first div{
   dispaly: flex;
 }
-.child  div{
-  width: 50%
-  height: 50%
+.child{
+  width: 50%;
+  height: 50%;
   border:5px solid yellow;
     background-color: blue !important;
 }
-.child  div{ nth-of-type(1)
+.child: nth-of-type(1){
   width: 50%;
   height: 50%;
   border:5px solid yellow;
