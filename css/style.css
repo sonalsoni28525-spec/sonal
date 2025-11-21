@@ -21,7 +21,24 @@ body{
     
        margin:0px; 
 }
-div{
+.first div{
+  dispaly: flex;
+}
+.child  div{
+  width: 50%
+  height: 50%
+  border:5px solid yellow;
+    background-color: blue !important;
+}
+.child  div{ nth-of-type(1)
+  width: 50%;
+  height: 50%;
+  border:5px solid yellow;
+      background-color: blue !important;         
+}
+
+  
+/* div{
   width:100%;
   height:100%;
   border:5px solid black;
@@ -49,4 +66,5 @@ div{
 .head + a + a + a + a + a {
   color: yellow; 
 }
-  
+   */
+
