@@ -24,7 +24,7 @@ body{
 .first div{
   dispaly: flex;
 }
-.child{
+.child: nth-of-type(2){
   width: 50%;
   height: 50%;
   border:5px solid yellow;
