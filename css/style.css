@@ -1,13 +1,26 @@
-.one{
-  height:50%;
-  width:50%;
-    border-color:2px solid black;
+*{
+  margin:0;
+  padding:0;
 }
-  
-.two{
-  height:50%;
-  width:50%;
-  border-color:2px solid black;
+body{
+  display:flex;
+  align-items:center;
+  justify-content: centre;
 }
-
-  
+div:nth-child(1){
+  height:100px;
+  width:100px;
+  margin:10px;
+  background-color:red;
+  color:white;
+  front-size:30px;
+  text-align:centre;
+}
+div:nth-child(2){
+  height:100%
+    widhth:100%
+  margin:10px;
+  background-image:url("../nature.jpg");
+  background-size:cover;
+  background-repeat:no-repeat;
+}
