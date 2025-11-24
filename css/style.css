@@ -13,7 +13,7 @@ border:5px solid yellow;
 }
   .childdiv:nth-of-type(2){
   width:50%;
-   background-size:fit;
+  background-size:fit;
   background-image:url("../nature.jpg")!important;
   color:white;
   front-size:30px;
@@ -24,6 +24,4 @@ border:5px solid yellow;
   flex-direction:column; 
           width:100%;      
 }
-  .childdiv{flex-direction:column;
-           }
 }
