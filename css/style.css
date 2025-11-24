@@ -10,7 +10,7 @@
   width: 50%;
   height:50%
   color:white;
-  backgroundcolor:red;
+backgroundcolor:red;
 border:5px;
   font-size:50px;
 }
@@ -26,15 +26,10 @@ border:5px;
 }
 .childdiv:nth-child(2){
   background-size:fit;
-  background-image:url("../nature.jpg"); 
+  background-image:url("nature.jpg"); 
 }
 @media(max-widhth:567px)
        .container{
   flex-direction: column;
 }
-.box{
-  height:100%;
-}
-}
-  
 
