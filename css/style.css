@@ -8,9 +8,9 @@ body{
   justify-content: centre;
 }
 div:nth-child(1){
-  height:100px;
-  width:100px;
-  margin:10px;
+  height:100%;
+  width:100%;
+  margin:10%;
   background-color:red;
   color:white;
   front-size:30px;
@@ -18,8 +18,8 @@ div:nth-child(1){
 }
 div:nth-child(2){
   height:100%;
-    widhth:100%;
-  margin:10px;
+   widhth:100%;
+  margin:2px;
   background-image:url("../nature.jpg");
   background-size:cover;
   background-repeat:no-repeat;
