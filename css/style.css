@@ -7,8 +7,15 @@
   height:100% 
 }
 .childdiv{
+  width: 50%;
+  height:50%
+  color:white;
+  backgroundcolor:red;
+border:5px;
+  font-size:50px;
+}
   
-div:nth-child(1){
+.childdiv:nth-child(1){
   height:100%;
   width:100%;
   margin:10%;
@@ -17,11 +24,17 @@ div:nth-child(1){
   front-size:30px;
   text-align:centre;
 }
-div:nth-child(2){
-  height:100%;
-   widhth:100%;
-  margin:2px;
-  background-image:url("nature.jpg");
-  /* background-size:cover; */
-  /* background-repeat:no-repeat; */
+.childdiv:nth-child(2){
+  background-size:fit;
+  background-image:url("../nature.jpg"); 
 }
+@media(max-widhth:567px)
+       .container{
+  flex-direction: column;
+}
+.box{
+  height:100%;
+}
+}
+  
+
