@@ -1,32 +1,24 @@
-*{
-  margin:0;
-  padding:0;
-}
+
 .firstdiv{
   display:flex;
-  height:100% 
+  height:50% 
 }
+
 .childdiv{
   width: 50%;
-  height:50%
   color:white;
 background-color:red;
 border:5px solid yellow;
   font-size:50px;
 }
-  
-div:nth-child(2){
-  height:50%;
+  .childdiv:nth-of-type(2){
   width:50%;
-  margin:10%;
-  background-color:red;
+    background-size:fit;
+  background-image:url("../nature.jpg")!important;
+
   color:white;
   front-size:30px;
   text-align:centre;
-}
-div:nth-child(2){
-  background-size:fit;
-  background-image:url("../nature.jpg")!important; 
 }
 @media(max-widhth:567px)
        .firstdiv{
