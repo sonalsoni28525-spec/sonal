@@ -1,7 +1,7 @@
 
 .firstdiv{
   display:flex;
-  height:50% 
+  height:100% 
 }
 
 .childdiv{
@@ -13,9 +13,8 @@ border:5px solid yellow;
 }
   .childdiv:nth-of-type(2){
   width:50%;
-    background-size:fit;
+   background-size:fit;
   background-image:url("../nature.jpg")!important;
-
   color:white;
   front-size:30px;
   text-align:centre;
