@@ -22,8 +22,8 @@ border:5px solid yellow;
 @media (max-widhth: 567px){
        .firstdiv{
   flex-direction:column; 
-          width:100%; 
-
-         
+          width:100%;      
 }
+  .childdiv{flex-direction:column;
+           }
 }
