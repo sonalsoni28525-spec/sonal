@@ -15,7 +15,7 @@ border:5px;
   font-size:50px;
 }
   
-.childdiv:nth-child(1){
+div:nth-child(1){
   height:100%;
   width:100%;
   margin:10%;
@@ -24,7 +24,7 @@ border:5px;
   front-size:30px;
   text-align:centre;
 }
-.childdiv:nth-child(2){
+div:nth-child(2){
   background-size:fit;
   background-image:url("nature.jpg"); 
 }
