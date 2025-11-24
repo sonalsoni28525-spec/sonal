@@ -2,11 +2,12 @@
   margin:0;
   padding:0;
 }
-body{
+.firstdiv{
   display:flex;
-  align-items:center;
-  justify-content: centre;
+  height:100% 
 }
+.childdiv{
+  
 div:nth-child(1){
   height:100%;
   width:100%;
