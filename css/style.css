@@ -20,7 +20,7 @@ div:nth-child(2){
   height:100%;
    widhth:100%;
   margin:2px;
-  background-image:url("../nature.jpg");
-  background-size:cover;
-  background-repeat:no-repeat;
+  background-image:url("nature.jpg");
+  /* background-size:cover; */
+  /* background-repeat:no-repeat; */
 }
