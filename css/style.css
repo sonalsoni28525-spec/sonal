@@ -26,7 +26,7 @@ div:nth-child(2){
 }
 div:nth-child(2){
   background-size:fit;
-  background-image:url("nature.jpg"); 
+  background-image:url("../nature.jpg")!important; 
 }
 @media(max-widhth:567px)
        .firstdiv{
