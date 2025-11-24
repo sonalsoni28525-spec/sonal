@@ -20,7 +20,7 @@ border:5px solid yellow;
   front-size:30px;
   text-align:centre;
 }
-@media(max-widhth:567px)
+@media(min-widhth:567px)
        .firstdiv{
   flex-direction: column;
 }
