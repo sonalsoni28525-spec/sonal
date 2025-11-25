@@ -3,7 +3,8 @@
     <title>   Training program  </title>
 <link rel="stylesheet" href="/imagelogo/imagestyle.css
     <body>
-      
+      <divclass="header">
+          </div>
     </body>
   </head>
 </hmtl>
