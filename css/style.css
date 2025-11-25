@@ -17,7 +17,7 @@ border:5px solid yellow;
   front-size:30px;
   text-align:centre;
 } 
-@media (min-width: 567px){
+@media (max-width: 567px){
        .firstdiv{
   flex-direction:column; 
                
